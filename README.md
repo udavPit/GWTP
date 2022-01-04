@@ -11,7 +11,7 @@ Get high quality support through ArcBees.
 
 ## Reference
 * [GWTP Custom Google Search](http://www.google.com/cse/home?cx=011138278718949652927:5yuja8xc600) - Search all of the GWTP documentation, wiki and thread collections.
-* [GWTP Documentation](http://dev.arcbees.com/gwtp/) - Find out how to use GWT-Platform here.
+* [GWTP Documentation](https://udavpit.gitbook.io/gwtp-mvp/) - Find out how to use GWT-Platform here.
 * [GWTP Samples](https://github.com/ArcBees/GWTP-Samples) - Find Sample GWT-Platform projects here.
 * [GWTP Archetypes](https://github.com/ArcBees/Arcbees-Archetypes/tree/master/archetypes) - Start a project from a template here.
 
